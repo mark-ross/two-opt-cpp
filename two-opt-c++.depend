@@ -1,0 +1,44 @@
+# depslib dependency file v1.0
+1475820617 source:c:\users\mark\documents\two-opt-c++\src\edgemanager.cpp
+	"../includes/Edge.hpp"
+	"../includes/EdgeManager.hpp"
+	<algorithm>
+	<iostream>
+
+1475820476 c:\users\mark\documents\two-opt-c++\includes\edge.hpp
+	"Point.hpp"
+
+1475820469 c:\users\mark\documents\two-opt-c++\includes\point.hpp
+	<string>
+
+1475820606 c:\users\mark\documents\two-opt-c++\includes\edgemanager.hpp
+	"Edge.hpp"
+	<vector>
+
+1475821019 source:c:\users\mark\documents\two-opt-c++\src\main.cpp
+	<iostream>
+	<vector>
+	<string>
+	"../includes/Point.hpp"
+	"../includes/EdgeManager.hpp"
+	"../includes/MapManager.hpp"
+
+1475819254 source:c:\users\mark\documents\two-opt-c++\src\mapmanager.cpp
+	<fstream>
+	<iostream>
+	<string>
+	<random>
+	<ctime>
+	"../includes/EdgeManager.hpp"
+	"../includes/MapManager.hpp"
+
+1475821250 c:\users\mark\documents\two-opt-c++\includes\mapmanager.hpp
+	<string>
+	<vector>
+	"EdgeManager.hpp"
+	"Solution.hpp"
+
+1475817996 c:\users\mark\documents\two-opt-c++\includes\solution.hpp
+	<vector>
+	"Point.hpp"
+
